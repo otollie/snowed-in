@@ -1,0 +1,6 @@
+{
+  "name": "snowed-in",
+  "version": "0.1.0",
+  "description": "A snowy night backdrop with matching colors; the snow piles higher as the context window fills.",
+  "types": "./types/index.d.ts"
+}
